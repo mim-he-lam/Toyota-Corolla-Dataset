@@ -8,7 +8,7 @@
 ## Bank Additional 
 * The model used: Ensemble Learning:
 
-  Stacking: ( Bagging,
+Stacking: ( Bagging,
   
 Random Forest,
 
