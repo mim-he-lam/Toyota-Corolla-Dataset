@@ -9,10 +9,13 @@
 * The model used: Ensemble Learning:
 
   Stacking: ( Bagging,
-              Random Forest,
-              Ada Boost,
-              SGD Classifier
-            ).
+  
+Random Forest,
+
+ Ada Boost,
+ 
+SGD Classifier
+).
 
 ### iris
 * The model used: Logistic Regresion.
