@@ -2,10 +2,10 @@
 
 
 
-###  Adult income
+##  Adult income
 * The model used: KNN - Grid Search CV.
 
-### Bank Additional 
+## Bank Additional 
 * The model used: Ensemble Learning:
 
   Stacking: ( Bagging,
@@ -17,11 +17,11 @@ Random Forest,
 SGD Classifier
 ).
 
-### iris
+## iris
 * The model used: Logistic Regresion.
 
-### Toyota corolla 
+## Toyota corolla 
 * The model used: SGD Regressor and SVM.
 
-### Universal Bank
+## Universal Bank
 * The model used: Logistic Regresion and SGD Classifier.
