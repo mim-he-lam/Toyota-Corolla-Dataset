@@ -1,13 +1,16 @@
-# * Analysis, EDA, pre-processing, clean data, visualization and use of supervised and unsupervised machine learning models.
+#  Analysis, EDA, pre-processing, clean data, visualization and use of supervised and unsupervised machine learning models.
 
 
 
 * Adult income | The model used: KNN - Grid Search CV.
 
 * Bank Additional | The model used: Ensemble Learning:
-  Stacking: ( Bagging
-              Random Forest
-              Ada Boost
+  Stacking: ( Bagging,
+  
+              Random Forest,
+  
+              Ada Boost,
+  
               SGD Classifier
             ).
 
