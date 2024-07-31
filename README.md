@@ -1,9 +1,8 @@
 #  Analysis, EDA, pre-processing, clean data, visualization and use of supervised and unsupervised machine learning models.
 
 
-
-##  Adult income
-* The model used: KNN - Grid Search CV.
+## Finance
+* The model used: PCA
 
 ## Bank Additional 
 * The model used: Ensemble Learning:
@@ -16,6 +15,12 @@ Random Forest,
  
 SGD Classifier
 ).
+
+
+##  Adult income
+* The model used: KNN - Grid Search CV.
+
+
 
 ## iris
 * The model used: Logistic Regresion.
