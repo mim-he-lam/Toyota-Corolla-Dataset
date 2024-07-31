@@ -16,6 +16,7 @@ Random Forest,
 SGD Classifier
 ).
 
+## other projects
 
 ##  Adult income
 * The model used: KNN - Grid Search CV.
